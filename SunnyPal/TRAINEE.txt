@@ -1,0 +1,5 @@
+jai hind sir/mam
+My name is sunny pal and my domain is full stack developer and to be more specific Mern stack
+
+my project will be a dashboard which will show the weather conditions in detail across the world.
+the project will use Mern-stack.
