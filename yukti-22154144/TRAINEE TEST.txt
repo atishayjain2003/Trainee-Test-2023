@@ -1,0 +1,2 @@
+My Domain : Full Stack web development 
+Project : I want to make a website which is for students in which when student login they will get Free-resources such as lectures/pdfs etc. , Loans  , Scholarships , Schemes all will be provided on same website according to their prefernce domain .
