@@ -1,0 +1,3 @@
+Domain - App Devlopment
+
+Project - App that uses Api(like SpaceX Api) & App is managed by GetX Statemanagement
